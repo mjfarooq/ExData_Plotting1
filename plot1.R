@@ -14,7 +14,7 @@ png("plot1.png")
 
 #### Plot histogram ######################################
 hist(Z,
-     main = "Global Avtive Power",
+     main = "Global Active Power",
      xlab = "Global Active Power (kilowatts)",
      col = "red",
      yaxt = "n"
